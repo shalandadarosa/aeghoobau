@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uepohmoch.ekumenlabs.com/sitemap.xml
